@@ -15,9 +15,13 @@
   - 💡 **CodeMaster JS** – sitio web con ejercicios prácticos para aprender JavaScript desde cero.
   - 🎮 **VREPLAY** – web que centraliza torneos y partidas *Tier 1* de Valorant, desarrollada con React, TypeScript y Tailwind CSS.
   - 📻 **Sitio no oficial de PBO (empresa real)** – rediseño moderno donde apliqué mejoras de SEO técnico y experiencia de usuario.
+    
 - 📚 Estudiante de Ingeniería de Sistemas, en constante aprendizaje de tecnologías modernas como **React**, **Astro**, **Node.js** y **TypeScript**.
+
 - 🛠️ Uso herramientas como **Zod** para validación de formularios, **React Router** para rutas dinámicas y buenas prácticas de **SEO** técnico.
+
 - 🌐 Mira mi portafolio aquí → [andresvelasquezdev.vercel.app](https://andresvelasquezdev.vercel.app/)
+
 - 📬 Estoy abierto a oportunidades laborales y colaboraciones.
 
 ---
