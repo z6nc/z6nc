@@ -1,55 +1,77 @@
-<h1 align="center">Hola 👋, soy <b>Andres Velasquez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , soy <b>Andres Velasquez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  💻 Desarrollador Web  🌐 Apasionado por crear experiencias digitales
+  🚀 <b>Fundador de ARX STAR</b> | 💻 Desarrollador Web | 📚 Ingeniería de Sistemas
 </p>
 
-
+<p align="center">
+  <em>"Enseñar es la mejor forma de aprender."</em>
+</p>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
 
-## 🧑‍💻 Sobre mí
 
-- 🚀 **Frontend Developer apasionado**, con experiencia práctica en proyectos destacados como:
-  - 🎓 **Aprende Quechua** – plataforma educativa que promueve el idioma quechua de forma interactiva.
-  - 💡 **CodeMaster JS** – sitio web con ejercicios prácticos para aprender JavaScript desde cero.
-  - 🎮 **VREPLAY** – web que centraliza torneos y partidas *Tier 1* de Valorant, desarrollada con React, TypeScript y Tailwind CSS.
-  - 📻 **Sitio no oficial de PBO (empresa real)** – rediseño moderno donde apliqué mejoras de SEO técnico y experiencia de usuario.
-    
-- 📚 Estudiante de Ingeniería de Sistemas, en constante aprendizaje de tecnologías modernas como **React**, **Astro**, **Node.js** y **TypeScript**.
+## 🧑‍💻 Sobre mí 
 
-- 🛠️ Uso herramientas como **Zod** para validación de formularios, **React Router** para rutas dinámicas y buenas prácticas de **SEO** técnico.
+Soy un **Estudiante de Ingeniería de Sistemas** apasionado por crear experiencias digitales y automatizar procesos.
 
-- 🌐 Mira mi portafolio aquí → [andresvelasquezdev.vercel.app](https://andresvelasquezdev.vercel.app/)
+## Sobre ARX STAR (Mi Iniciativa)
 
-- 📬 Estoy abierto a oportunidades laborales y colaboraciones.
+Actualmente estoy construyendo **ARX STAR**, un ecosistema donde la **Ingeniería de Sistemas** se encuentra con el **Desarrollo Personal**.
+
+> *Unimos los fundamentos académicos con la práctica autodidacta. No buscamos la verdad absoluta, sino la utilidad real. Si compartir mis conocimientos en tecnología, automatización y liderazgo te ayuda a crecer, mi misión está cumplida.*
 
 ---
 
-## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
-  <img src="https://astro.build/assets/brand/icon-dark.svg" height="40" alt="Astro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+
+## 🏗️ Proyectos Destacados
+
+Fusiono código puro con herramientas *Low-Code* para crear soluciones reales:
+
+### 🤖 Automatización & Data (La Lógica)
+- **⚡ OnboardExpress**
+  *Automatización de RRHH con **n8n**.*
+  Sistema que orquesta todo el proceso de bienvenida de nuevos empleados, enviando credenciales, correos y asignando tareas automáticamente.
+
+- **📊 AutoLavado Smart System**
+  *Gestión comercial con **SharePoint** y **Power BI**.*
+  Sistema integral para el registro de compras y ventas de un autolavado, conectado a un Dashboard interactivo para la toma de decisiones basada en datos.
+
+### 💻 Desarrollo Web & Educación (El Código)
+- **🧠 MindStack**
+  Plataforma digital enfocada en la productividad del desarrollo en el ecosistema React js.
+
+- **🎓 Aprende Quechua**
+  Plataforma educativa interactiva diseñada para revitalizar y enseñar el idioma quechua.
+
+---
+
+## 🛠 Tech Stack & Herramientas
+
+Mi arsenal se divide en desarrollo de software y potencia de automatización:
+
+### 🎨 Frontend & Core
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
----
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z6nc&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z6nc&layout=compact&theme=radical" height="180"/>
+### 🚀 Automatización & Data
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automate"/>
 </p>
 
 ---
@@ -58,21 +80,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andresvelasquezdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://andresvelasquezdev.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="30" width="40" />
-  </a>
-  <a href="https://github.com/z6nc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:andresdanielvelasquezarotinco@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🙌
+  Hecho con 🤍 por <b>ARX STAR</b>
 </p>
