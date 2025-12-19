@@ -29,7 +29,7 @@ Actualmente estoy construyendo **ARX STAR**, un ecosistema donde la **Ingenierí
 
 Fusiono código puro con herramientas *Low-Code* para crear soluciones reales:
 
-### 🤖 Automatización & Data (La Lógica)
+### 🤖 Automatización & Data
 - **⚡ OnboardExpress**
   *Automatización de RRHH con **n8n**.*
   Sistema que orquesta todo el proceso de bienvenida de nuevos empleados, enviando credenciales, correos y asignando tareas automáticamente.
@@ -38,7 +38,7 @@ Fusiono código puro con herramientas *Low-Code* para crear soluciones reales:
   *Gestión comercial con **SharePoint** y **Power BI**.*
   Sistema integral para el registro de compras y ventas de un autolavado, conectado a un Dashboard interactivo para la toma de decisiones basada en datos.
 
-### 💻 Desarrollo Web & Educación (El Código)
+### 💻 Desarrollo Web & Educación
 - **🧠 MindStack**
   Plataforma digital enfocada en la productividad del desarrollo en el ecosistema React js.
 
