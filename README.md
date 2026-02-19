@@ -16,18 +16,23 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
+## Blog Personal
+> [![ARXSTAR](https://img.shields.io/badge/-ARXSTAR-38B6FF?style=for-the-badge&logo=astro&logoColor=white)](https://arxstarblog.vercel.app/)
+
 
 ##  Proyectos
 
-- 🌟 [ARXSTAR](https://arxstarblog.vercel.app/) - Mi blog personal enfocado en ayudar a las personas y compartir conocimiento.
 - 🕵️‍♂️ [Auditoria](https://github.com/z6nc/AuditoriaPC) - Ejecutable creado con Node.js para la recopilación forense de información del sistema.
 - 🗂️ [OrganizadorDescargas](https://arxstarblog.vercel.app/blog/2-organizadordescargas/) - Script de automatización en Node.js que organiza tus descargas por extensiones.
+- 🌟 [ARXSTAR](https://arxstarblog.vercel.app/) - Mi blog personal enfocado en ayudar a las personas y compartir conocimiento.
 - 🧠 [Mindstack](https://mindstackdev.vercel.app/) - Recopilación de comandos esenciales y paquetes para el ecosistema React.
 - 🇵🇪  [AprendeQuechua](https://aprende-quechua.vercel.app/) - Plataforma gratuita con traductor en tiempo real para aprender Quechua.
 - 🧪 [LaboInspira](https://lab-inspira.vercel.app/) - Colección de minijuegos desarrollados con JavaScript puro (Vanilla JS).
 - 👨‍💻 [CodeMaster](https://code-master-js.vercel.app/) - Plataforma interactiva para practicar y resolver ejercicios de lógica en JavaScript.
 - 🎮 [VReplay](https://v-replay.vercel.app/) - Plataforma centralizada para visualizar torneos de Valorant.
 - 📻 [PBO-web-unofficial](https://pbo-web-unofficial.vercel.app/)- Rediseño de UI/UX para la web de Radio PBO (Concepto).
+
+
 
 ## Filosofia
 > "Enseñar es la mejor forma de aprender."
