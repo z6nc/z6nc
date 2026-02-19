@@ -22,6 +22,7 @@
 
 ##  Proyectos
 
+- 🎶 [YTMusicaSinCopy](https://github.com/z6nc/MusicaSinCopy) - Ejecutable para descargar playList de YT a formato mp3  
 - 🕵️‍♂️ [Auditoria](https://github.com/z6nc/AuditoriaPC) - Ejecutable creado con Node.js para la recopilación forense de información del sistema.
 - 🗂️ [OrganizadorDescargas](https://arxstarblog.vercel.app/blog/2-organizadordescargas/) - Script de automatización en Node.js que organiza tus descargas por extensiones.
 - 🌟 [ARXSTAR](https://arxstarblog.vercel.app/) - Mi blog personal enfocado en ayudar a las personas y compartir conocimiento.
