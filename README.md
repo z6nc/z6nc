@@ -21,6 +21,7 @@
 
 
 ##  Proyectos
+- ⏱️ [FocusTimer](https://github.com/z6nc/FocusTimer) - Bloqueador de sitios web estilo Pomodoro hecho en Node.js que evita distracciones durante sesiones de trabajo.
 - 📝 [ExtractorDeTexto](https://github.com/z6nc/ExtractorDeTexto) - Script que extrae palabras de una imagen y te guarda en un txt , disponible en 3 idiomas Ingles , español y chino Mandarin
 - 🎶 [YTMusicaSinCopy](https://github.com/z6nc/MusicaSinCopy) - Ejecutable para descargar playList de YT a formato mp3  
 - 🕵️‍♂️ [Auditoria](https://github.com/z6nc/AuditoriaPC) - Ejecutable creado con Node.js para la recopilación forense de información del sistema.
