@@ -21,6 +21,7 @@
 
 
 ##  Proyectos
+- 📄 [PDFToMD](https://github.com/z6nc/PDFToMD) - Conversor de PDF a Markdown en Node.js que extrae texto e imágenes para facilitar su uso con LLMs y sistemas de documentación.
 - ⏱️ [FocusTimer](https://github.com/z6nc/FocusTimer) - Bloqueador de sitios web estilo Pomodoro hecho en Node.js que evita distracciones durante sesiones de trabajo.
 - 📝 [ExtractorDeTexto](https://github.com/z6nc/ExtractorDeTexto) - Script que extrae palabras de una imagen y te guarda en un txt , disponible en 3 idiomas Ingles , español y chino Mandarin
 - 🎶 [YTMusicaSinCopy](https://github.com/z6nc/MusicaSinCopy) - Ejecutable para descargar playList de YT a formato mp3  
@@ -33,7 +34,6 @@
 - 👨‍💻 [CodeMaster](https://code-master-js.vercel.app/) - Plataforma interactiva para practicar y resolver ejercicios de lógica en JavaScript.
 - 🎮 [VReplay](https://v-replay.vercel.app/) - Plataforma centralizada para visualizar torneos de Valorant.
 - 📻 [PBO-web-unofficial](https://pbo-web-unofficial.vercel.app/)- Rediseño de UI/UX para la web de Radio PBO (Concepto).
-
 
 
 ## Filosofia
