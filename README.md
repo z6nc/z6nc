@@ -1,6 +1,6 @@
 # Hola , soy Andres 👋
 
-📍 **Lima ↔ Perú** | 💻 **Desarrollador Web** | 📚 **Ingeniería de Sistemas** | 🚀 **ARX STAR**
+📍 **Lima ↔ Perú** | 💻 **Desarrollador Web** | 📚 **Ingeniería de Sistemas** | 🚀 **MAGNUS IRONHEART**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
